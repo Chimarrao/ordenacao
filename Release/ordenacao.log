@@ -1,0 +1,8 @@
+﻿  Origem.c
+c:\users\chimarrao\source\repos\ordenacao\ordenacao\origem.c(154): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Gerando código
+  2 of 17 functions (11.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  ordenacao.vcxproj -> C:\Users\Chimarrao\source\repos\ordenacao\Release\ordenacao.exe

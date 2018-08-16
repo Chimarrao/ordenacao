@@ -1,0 +1,3 @@
+﻿  Origem.c
+c:\users\chimarrao\source\repos\ordenacao\ordenacao\origem.c(33): error C2059: erro de sintaxe: 'constante'
+c:\users\chimarrao\source\repos\ordenacao\ordenacao\origem.c(138): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
